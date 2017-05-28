@@ -1,0 +1,3 @@
+1. MainActivity is made a FlashScreen that flashes for 2 sec. If you come back to it, it will again reload the next activity despite of staying on the same. Serves the purpose.
+    TODO: Check if need to return to FlashScreen when back button is pressed.
+2.
