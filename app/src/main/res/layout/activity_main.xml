@@ -8,7 +8,9 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="zz.demoapp.Activity.MainActivity">
+    tools:context="zz.demoapp.Activity.MainActivity"
+    android:background="@drawable/black_bg"
+    >
 
     <TextView
         android:text="FlashScreen"

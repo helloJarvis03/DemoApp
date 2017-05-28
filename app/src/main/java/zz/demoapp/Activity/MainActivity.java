@@ -29,6 +29,6 @@ public class MainActivity extends AppCompatActivity {
                 Intent dashBoardIntent = new Intent(MainActivity.this, DashBoardActivity.class);
                 startActivity(dashBoardIntent);
             }
-        }, 2000);
+        }, 5000);
     }
 }
