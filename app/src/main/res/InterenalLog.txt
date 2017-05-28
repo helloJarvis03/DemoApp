@@ -1,3 +1,16 @@
-1. MainActivity is made a FlashScreen that flashes for 2 sec. If you come back to it, it will again reload the next activity despite of staying on the same. Serves the purpose.
-    TODO: Check if need to return to FlashScreen when back button is pressed.
-2.
+=================================================================================================================================================================================
+Files names format:
+1. All the activity java files should be inside the package zz.demoapp.Activity
+2. Activity java files should be named as <name>Activity.java
+3. All the layout resource files should be named as activity_<name>.xml
+4.
+
+=================================================================================================================================================================================
+Format :
+<Serial No>. <Name of contributor> (<date>): <Your message and ToDos (if any)
+Please follow the indentation.
+
+1. Ankit (28/05/17) : MainActivity is made a FlashScreen that flashes for 2 sec. If you come back to it, it will again reload the next activity despite of staying on the same. Serves the purpose.
+                       TODO: Check if need to return to FlashScreen when back button is pressed.
+2. Ankit (28/05/17) : Made a package inside java and moved all the Activities inside that. This we can differentiate between activity classes and funtional classes easily.
+3.

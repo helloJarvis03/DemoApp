@@ -1,7 +1,9 @@
-package zz.demoapp;
+package zz.demoapp.Activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+
+import zz.demoapp.R;
 
 /**
  * Created by ankikumar on 5/28/2017.
