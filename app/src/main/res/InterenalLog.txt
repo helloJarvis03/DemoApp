@@ -10,7 +10,9 @@ Format :
 <Serial No>. <Name of contributor> (<date>): <Your message and ToDos (if any)
 Please follow the indentation.
 
-1. Ankit (28/05/17) : MainActivity is made a FlashScreen that flashes for 5 seconds. If you come back to it, it will again reload the next activity despite of staying on the same. Serves the purpose.
-                       TODO: Check if need to return to FlashScreen when back button is pressed.
+1. Ankit (28/05/17) : SplashActivity is the FlashScreen that flashes for 5 seconds. If you come back to it, it will again reload the next activity despite of staying on the same.
+                      It Serves the purpose.
+                      TODO: Check if need to return to FlashScreen when back button is pressed.
 2. Ankit (28/05/17) : Made a package inside java and moved all the Activities inside that. This we can differentiate between activity classes and funtional classes easily.
-3. Ankit (28/05/17) :
+3. Ankit (28/05/17) : ToDo: Need to discuss if we need a logger class or something to track the code flow.
+4.
