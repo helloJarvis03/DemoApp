@@ -4,9 +4,22 @@ Files names format:
 2. Activity java files should be named as <name>Activity.java
 3. All the layout resource files should be named as activity_<name>.xml
 4.
-
 =================================================================================================================================================================================
-Format :
+Paint.Net :
+1. Canvas size for drawing Jarvis rings should be 26.46cm X 26.46cm (which evaluates to 1000pi X 1000pi.
+2. Blur radius is 200.
+2. All rings have centre @ (500, 500)
+2. 1si ring : has dimension 200X200 (solid fill) lined
+3. 2nd ring : pen thickness = 30 (around 300 X 300) dotted
+4. 3rd ring : pen thickness = 10 (around 450 X 450) lined
+5. 4th ring : pen thickness = 10 (520 X 520) dotted
+6. 5th ring : pen thickness = 3  (
+---------------------------------------------
+Colors used :
+1. Cyan : (0, 255, 255) : #00ffff
+2.
+=================================================================================================================================================================================
+Format for commits:
 <Serial No>. <Name of contributor> (<date>): <Your message and ToDos (if any)
 Please follow the indentation.
 
